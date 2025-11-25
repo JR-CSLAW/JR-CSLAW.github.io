@@ -59,12 +59,11 @@ Comprehensive security controls analysis conducted as part of the Google Cyberse
 - Conduct legal risk analysis and regulatory compliance assessments
 
 ### Independent Legal Advisor
- **Freelance Legal Services** | August 2024 - March 2025
- - Supported law firms in legal file management, and Civil and
- - Corporate cases ensuring compliance
- - Drafted legal documents and filed briefs with entities
- - Maintained client communications and case documentation
-
+**Freelance Legal Services** | August 2024 - March 2025
+- Supported law firms in legal file management, and Civil and Corporate cases ensuring compliance
+- Drafted legal documents and filed briefs with entities
+- Maintained client communications and case documentation
+  
 ### Legal Information Systems Analyst  
 **DIRAJus IV Program - German Cooperation (GIZ)** | March 2024 - July 2024
 - Processed jurisprudential data for AcDc database implementation
