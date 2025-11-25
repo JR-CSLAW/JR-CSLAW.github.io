@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Josué Rodríguez - Cybersecurity & Legal Professional
+Professional portfolio: Josué Rodríguez - Cybersecurity & Legal Professional
 ---
 
 # Josué Eduardo Rodríguez Carrillo
