@@ -58,7 +58,7 @@ Comprehensive security controls analysis conducted as part of the Google Cyberse
 - Manage court procedures before specialized national courts
 - Conduct legal risk analysis and regulatory compliance assessments
 
- ### Independent Legal Advisor
+### Independent Legal Advisor
  **Freelance Legal Services** | August 2024 - March 2025
  - Supported law firms in legal file management, and Civil and
  - Corporate cases ensuring compliance
