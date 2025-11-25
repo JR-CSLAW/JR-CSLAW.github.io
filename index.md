@@ -9,7 +9,7 @@ Professional portfolio: Josué Rodríguez - Cybersecurity & Legal Professional
 
 ## Professional Profile
 
-Legal professional with academic excellence (GPA 9.0/10) strategically transitioning into cybersecurity. Advanced expertise in legal analysis and regulatory risk management, complemented by technical training in digital security (Python, Linux, SQL, SIEM). Progressively mastering Mandarin Chinese (HSK 3) and English (B2), with international perspective to address global digital security challenges.
+Legal professional with academic excellence (GPA 9.0/10) strategically transitioning into cybersecurity. Advanced expertise in legal analysis and regulatory risk management, currently developing technical cybersecurity skills through certification programs. Progressively mastering Mandarin Chinese (HSK 3) and English (B2), with international perspective to address global digital security challenges.
 
 **Unique Value Proposition:** I bridge legal compliance requirements with technical security implementations, ensuring organizations meet regulatory standards while maintaining robust security postures.
 
@@ -23,12 +23,14 @@ Legal professional with academic excellence (GPA 9.0/10) strategically transitio
 - Constitutional Law & Complex Litigation
 - Legal Documentation & Specialized Writing
 
-### **Technical Cybersecurity Skills**
-- Python Programming & Linux Environments
-- SQL Database Operations
-- SIEM Tools & Intrusion Detection Systems
-- Risk Assessment & Security Controls
-- Incident Detection & Response
+### **Cybersecurity Skills in Development**
+- **Security Fundamentals:** Network security, encryption, access controls
+- **Security Tools Introduction:** SIEM platforms, basic Linux environment
+- **Risk Management:** Security assessment methodologies, control frameworks
+- **Compliance & Governance:** NIST CSF, security policy development
+- **Incident Response Basics:** Security monitoring and detection concepts
+
+*Developing practical skills through Professional Certificates with a focus on legal-compliance integration*
 
 ### **Languages**
 - **Spanish:** Native
@@ -55,6 +57,13 @@ Comprehensive security controls analysis conducted as part of the Google Cyberse
 - Draft constitutional lawsuits and complex legal documents
 - Manage court procedures before specialized national courts
 - Conduct legal risk analysis and regulatory compliance assessments
+
+ ### Independent Legal Advisor
+ **Freelance Legal Services** | August 2024 - March 2025
+ - Supported law firms in legal file management, and Civil and
+ - Corporate cases ensuring compliance
+ - Drafted legal documents and filed briefs with entities
+ - Maintained client communications and case documentation
 
 ### Legal Information Systems Analyst  
 **DIRAJus IV Program - German Cooperation (GIZ)** | March 2024 - July 2024
