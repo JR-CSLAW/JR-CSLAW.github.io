@@ -25,7 +25,7 @@ This security audit was completed as part of the Google Cybersecurity Profession
 - **Compliance Mapping:** Regulatory requirement alignment
 - **Documentation:** Professional security audit reporting
 
-## Project Artifacts
+## Project Deliverables
 
 - [Complete Controls and Compliance Checklist PDF](./controls-compliance-checklist.pdf)
 
