@@ -86,10 +86,11 @@ Pontifical Catholic University of Ecuador | February 2025
 
 **Google Cybersecurity Professional Certificate** | Coursera  
 *Expected Completion: November 2025*  
-*Technical competencies: Python, Linux, SQL, SIEM Tools, IDS, Risk Management*
+*Technical competencies: Threat & Risk Management, SIEM & Incident Response, Python Automation, Linux & SQL Basics, Network Security, and AI-powered security tools.*
 
 **Cisco Cybersecurity Analyst Pathway** | Cisco Networking Academy  
-*Expected Completion: November 2025 | Target: CCST Cybersecurity Certification*
+*Expected Completion: November 2025*  
+*Target: CCST Cybersecurity Certification*
 
 ---
 
