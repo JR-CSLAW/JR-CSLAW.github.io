@@ -8,8 +8,8 @@ Welcome to my professional portfolio showcasing my transition from legal practic
 ## Unique Value Proposition
 
 I bring together:
-- **Legal Excellence:** Constitutional law expertise and regulatory compliance
-- **Technical Training:** Cybersecurity fundamentals (Python, Linux, SQL, SIEM)
+- **Legal Excellence:** Civil, Constitutional, and Corporate Law proficiency focused on Regulatory Compliance and Data Security governance.
+- **Technical Training:** Cybersecurity fundamentals (Security Fundamentals & Network Security / SIEM Tools & Linux Environment Basics / Risk Assessment & Control Frameworks / Security Compliance & Governance / Incident Response Concepts)
 - **Multilingual Capability:** Spanish (Native) | English (B2) | Mandarin Chinese (HSK 3)
 - **International Perspective:** Global approach to digital security challenges
 
