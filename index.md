@@ -48,7 +48,12 @@ Comprehensive security controls analysis conducted as part of the Google Cyberse
 
 **[View Full Project Details](./projects/security-audit-google/)**
 
----
+### [File Permissions in Linux](./projects/linux-projects/FILE-PERMISSIONS-IN-LINUX.pdf)
+Detailed analysis of file permissions in Linux, conducted as part of the Google Cybersecurity Certificate. Includes practical examples of permission configuration and troubleshooting security issues.
+
+**Technologies:** Linux CLI, File System Security, User Permissions, Google Cybersecurity Fundamentals
+
+**[View Full Project Details](./projects/linux-projects/FILE-PERMISSIONS-IN-LINUX.pdf)**
 
 ## Professional Experience
 
