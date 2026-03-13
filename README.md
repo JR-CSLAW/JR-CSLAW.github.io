@@ -18,7 +18,7 @@ I bring together:
 - [Live Portfolio Website](https://JR-CSLAW.github.io)
 - [Download My CV](./assets/pdf/CV.pdf)
 - [View Security Audit Project](./projects/security-audit-google/)
-- [File permissions in Linux Project](.projects/linux-projects/FILE-PERMISSIONS-IN-LINUX.pdf)
+- [File permissions in Linux Project](./projects/linux-projects/FILE-PERMISSIONS-IN-LINUX.pdf)
 ## Professional Contact
 
 Seeking opportunities where legal expertise and cybersecurity intersect? Let's connect.
