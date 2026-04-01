@@ -55,6 +55,13 @@ Detailed analysis of file permissions in Linux, conducted as part of the Google 
 
 **[View Full Project Details](./projects/linux-projects/FILE-PERMISSIONS-IN-LINUX.pdf)**
 
+### [SQL Filters Project](./projects/sql-filters-project/Apply_filters_to_SQL_queries.pdf)
+Applying SQL filters for security analysis. A hands-on project completed as part of the Google Cybersecurity Certificate, focusing on data extraction and filtering for incident detection.
+
+**Technologies:** SQL, Google BigQuery, Security Logs Analysis
+
+**[View Full Project Details](./projects/sql-filters-project/Apply_filters_to_SQL_queries.pdf)**
+
 ## Professional Experience
 
 ### Constitutional Law Specialist
