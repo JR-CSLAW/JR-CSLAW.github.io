@@ -19,6 +19,7 @@ I bring together:
 - [Download My CV](./assets/pdf/CV.pdf)
 - [View Security Audit Project](./projects/security-audit-google/)
 - [File permissions in Linux Project](./projects/linux-projects/FILE-PERMISSIONS-IN-LINUX.pdf)
+- [SQL Filters Project](./projects/sql-filters-project/apply_filters_to_SQL_queries.pdf)
 ## Professional Contact
 
 Seeking opportunities where legal expertise and cybersecurity intersect? Let's connect.
